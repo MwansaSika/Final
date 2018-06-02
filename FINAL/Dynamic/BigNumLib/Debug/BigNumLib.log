@@ -1,7 +1,0 @@
-﻿  BigNumLib.cpp
-c:\users\user\source\repos\dynamiclibrary\bignumlib\bignumlib.cpp(10): error C2039: 'Add': is not a member of 'BigNumLib'
-  c:\users\user\source\repos\dynamiclibrary\bignumlib\bignumlib.cpp(8): note: see declaration of 'BigNumLib'
-c:\users\user\source\repos\dynamiclibrary\bignumlib\bignumlib.cpp(15): error C2039: 'Multiply': is not a member of 'BigNumLib'
-  c:\users\user\source\repos\dynamiclibrary\bignumlib\bignumlib.cpp(8): note: see declaration of 'BigNumLib'
-c:\users\user\source\repos\dynamiclibrary\bignumlib\bignumlib.cpp(20): error C2039: 'AddMultiply': is not a member of 'BigNumLib'
-  c:\users\user\source\repos\dynamiclibrary\bignumlib\bignumlib.cpp(8): note: see declaration of 'BigNumLib'
